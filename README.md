@@ -7,7 +7,7 @@ Hello, I'm a student at the [University of Lübeck](https://www.uni-luebeck.de/u
 
 I'd like to learn Haskell at some point.
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=douira&theme=github_dark&layout=compact)
+![](https://github-readme-stats-gamma-two-97.vercel.app/api/top-langs/?username=douira&theme=github_dark&layout=compact)
 
 <!--
 **douira/douira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
