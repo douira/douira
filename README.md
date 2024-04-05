@@ -2,7 +2,7 @@
 
 Hello, I'm a student at the [University of Lübeck](https://www.uni-luebeck.de/universitaet/universitaet.html) doing my Master's of Computer Science currently. I'm interested in creating well-designed and helpful things with aesthetic qualities. Other interests of mine include gaming, baking cakes and gardening. My interesting projects are pinned in my profile but here's also a list of some:
 
-- An [extensive PR](https://github.com/CaffeineMC/sodium-fabric/pull/2016) adding translucency sorting to [Sodium](https://github.com/CaffeineMC/sodium-fabric) (I'm writing my Master's thesis on this topic)
+- Extensive work in [two](https://github.com/CaffeineMC/sodium-fabric/pull/2016) [PRs](https://github.com/CaffeineMC/sodium-fabric/pull/2352) of adding translucency sorting to [Sodium](https://github.com/CaffeineMC/sodium-fabric) as part of my Master's thesis on this topic.
 - The Resolution Editor is a document management and editing software for use at MUN conferences like [MUNOL](https://munol.org/).
 - [glsl-transformer](https://github.com/IrisShaders/glsl-transformer): A GLSL program transformation Java library based on ANTLR 4, used in [Iris](https://github.com/IrisShaders/Iris/).
 
